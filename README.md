@@ -20,9 +20,9 @@ A distributed group membership service to detect failure.
 
 ### MP3 – [Simple Distributed File System](https://github.com/wenhanshi/uiuc-cs425-distributed-system/tree/master/cs425-mp3-sm) (best MP in Python)
 
-A [Simple Distributed File System](https://github.com/wenhanshi/uiuc-cs425-distributed-system/tree/master/cs425-mp4-sm) (SDFS).
+A Simple Distributed File System (SDFS).
 
-### MP4 – Crane
+### MP4 – [Crane](https://github.com/wenhanshi/uiuc-cs425-distributed-system/tree/master/cs425-mp4-sm)
 
 A real-time stream
 processing system that will be faster than Spark Streaming in small stream data.
