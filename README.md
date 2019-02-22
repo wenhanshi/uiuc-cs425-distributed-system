@@ -27,7 +27,7 @@ A Simple Distributed File System (SDFS).
 A real-time stream
 processing system that will be faster than Spark Streaming in small stream data.
 
-# Developer
+# Developers
 
 - Wenhan Shi
 - Linling Miao
