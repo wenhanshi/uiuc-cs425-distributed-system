@@ -1,7 +1,7 @@
 # CS425: Distributed System
 A collection of code and report for CS425, Fall 2018, UIUC.
 
-Instructor: (Indranil Gupta)[http://indy.cs.illinois.edu/]
+Instructor: [Indranil Gupta](http://indy.cs.illinois.edu/)
 
 # Overview
 
