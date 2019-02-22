@@ -1,0 +1,11 @@
+1:
+  out: false
+  op: 'lambda x: "Good" in x'
+  type: filter
+  child: 2
+
+2:
+  out: true
+  op: 'lambda x: x.replace("Good","Bad")'
+  type: transform
+  child: -1

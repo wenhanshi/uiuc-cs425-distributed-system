@@ -1,0 +1,11 @@
+1:
+  out: false
+  op: 'lambda x: float(x.split()[-1]) >= 4'
+  type: filter
+  child: 2
+
+2:
+  out: true
+  op: 'lambda x: float(x.split()[2]) >= 5'
+  type: filter
+  child: -1
